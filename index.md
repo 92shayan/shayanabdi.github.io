@@ -15,10 +15,11 @@
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
-
-
++ Making motion graphics
++ Logo design
++ Catalog and poster design
++ Video Editor
++ Sound recording
 ### Education
 
 ---
