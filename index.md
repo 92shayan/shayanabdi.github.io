@@ -1,14 +1,14 @@
 
-### Anahita Taheri
+### Shayan Abdi
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: Shayan
++ last name : Abdi
++ Date of birth : 1994/september/15
++ I am a graphic designer
 + location : Tehran , I.R.Iran
 
 
@@ -22,16 +22,16 @@
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Diploma : Mirdamad high school
++ Bachelor of science : Business management
+_ Isfahan University 
 
 ### language
 
 ---
 + Persian
++ Deutsch
 + English
-
 ### Favorites
 
 ---
@@ -43,7 +43,7 @@ _ payam Noor University of North
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ I am working in Branding Company.
 
 
 
